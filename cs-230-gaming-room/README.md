@@ -1,10 +1,6 @@
 # CS-230 Gaming Room Project
 Reflection and documentation for The Gaming Room design document.
 
-# CS-230 Gaming Room Project
-
-This folder contains my completed Software Design Document for **The Gaming Room** project.  
-
 ---
 
 ## Reflection
